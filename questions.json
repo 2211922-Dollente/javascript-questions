@@ -1,0 +1,235 @@
+{
+  "identification": [
+    {
+      "question":"This is the disciplined technique of restructuring an existing body of code.",
+      "choices": null, 
+      "answer":"refactoring"
+    },
+    {
+      "question":"This reverse-engineers the translation that was performed by the compilers and assemblers.", 
+      "choices": null,
+      "answer":"decompiler and disassembler"
+    },
+    {
+      "question":"What refers to the gradual deterioration of software over time?",
+      "choices": null, 
+      "answer":"software decay"
+    },
+    {
+      "question":"This is a 'Software quality assurance activity.'",
+      "choices": null, 
+      "answer":"code review"
+    },
+    {
+      "question":"These are developed using programming languages, language libraries, frameworks, and etc.",
+      "choices": null, 
+      "answer":"computer program"
+    },
+    {
+      "question": "This is used to communicate with a machine and instruct it what to do.",
+      "choices": null,
+      "answer": "programming language"
+    },
+    {
+      "question": "This is a programming language that is the variation of the lisp programming language.",
+      "choices": null,
+      "answer":"Scheme"
+    },
+    {
+      "question": "This is a programming language developed by Yukihiro Matsumoto that only gained recognition during the 2000s.",
+      "choices": null,
+      "answer": "Ruby"
+    },
+    {
+      "question": "This is a programming language that was created by an employee of Mozilla that is also free & open-sourced.",
+      "choices": null,
+      "answer": "Rust"
+    },
+    {
+      "question": "This programming language was derived from the C Programming language. ",
+      "choices": null,
+      "answer":"C++"
+    },
+    {
+      "question": "This language was created by Guido Van Rossum in the Netherlands and was released in 1991.",
+      "choices": null,
+      "answer":"Python"
+    },
+    {
+      "question": "This is a powerful, intuitive programming language for iOS, iPadOS, macOS, tvOS, mentOS, viOS, Vilma delOS santOS, and watchOS.",
+      "choices": null,
+      "answer":"Swift"
+    },
+    {
+      "question": "Source-to-source compiler from one language to an equivalent in another language.",
+      "choices": null,
+      "answer":"transpiler"
+    },
+    {
+      "question": "What does API stand for? ",
+      "choices": null,
+      "answer":"Application Programming Interface"
+    },
+    {
+      "question": "Written text or illustration associated with the software.",
+      "choices": null,
+      "answer":"software documentation"
+    }
+  ],
+
+  "multipleChoice": [
+    {
+      "question":"What translates the source code into target machine code 'on-the-fly?'",
+      "choices": ["disassembler", "compiler", "interpreter", "colonizer"], 
+      "answer":"interpreter"
+    },
+    {
+      "question":"This Programming Language Paradigm uses FACTS and RULES.",
+      "choices": ["Logical programming paradigm", "Factual structure paradigm", "Logic programming paradigm", "Reasonability programming paradigm"],
+      "answer": "Logic programming paradigm"
+    },
+    {
+      "question":"This paradigm utilizes control flow constructs.", 
+      "choices": ["Imperative programming paradigm", "Declarative programming paradigm", "Object-oriented programming paradigm", "Structured programming paradigm"],
+      "answer":"Structured programming paradigm"
+    },
+    {
+      "question":"This is something that always evaluates to the same result.",
+      "choices": ["function", "relation", "logic", "reason"], 
+      "answer":"function"
+    },
+    {
+      "question":"This performs deliberate modifications to make the code difficult to understand.",
+      "choices": ["obfuscator", "generator", "remote controlinator", "compiler"], 
+      "answer":"obfuscator"
+    },
+    {
+      "question": "These are the two types of testing in software development.",
+      "choices":["functional and regression tests","system and acceptance testing","smoke and unit testing","manual and automated testing"],
+      "answer":"manual and automated testing"
+    },
+    {
+      "question": "This is a programming language that was designed by Google.",
+      "choices": ["Java","Go","Swift","Rust"],
+      "answer": "Go"
+    },
+    {
+      "question": "These are the creators of Scheme.",
+      "choices": ["Yukihiro Matsumoto and Hiromu Arakawa","Robert Griesemer and Rob Pike","James Gosling", "Guy Lewis Steele Jr. and Gerald Jay Sussman"],
+      "answer": "Guy Lewis Steele Jr. and Gerald Jay Sussman"
+    },
+    {
+      "question": "This is one of the compilers used for C++.",
+      "choices": ["RubyMine","GCC","DrRacket","PyCharm"],
+      "answer": "GCC"
+    },
+    {
+      "question": "This is used to answer questions based on given knowledge.",
+      "choices": ["experience","programming","logical reasoning","research"],
+      "answer": "logical reasoning"
+    },
+    {
+      "question": "This Imperative Programming Paradigm utilizes the concept of objects (state and behavior).",
+      "choices": ["object-oriented","state-oriented","logic-oriented","concept-oriented"],
+      "answer": "object-oriented"
+    },
+    {
+      "question": "These are the some of the basic concepts of Imperative Programming Paradigm, except:",
+      "choices": ["variables","modules","constant","data types"],
+      "answer": "constant"
+    },
+    {
+      "question": "These are some of the constructs of the Structured Programming Paradigm, except:",
+      "choices": ["subroutines","selection","control flow","procedures"],
+      "answer": "procedures"
+    },
+    {
+      "question": "Measures space or time complexity.",
+      "choices": ["software profiling","software management","software timeline","software engineering"],
+      "answer": "software profiling"
+    },
+    {
+      "question": "This is the process of finding, removing, and killing of bugs in the software program.",
+      "choices": ["fixing","debugging","improving","reviewing"],
+      "answer": "debugging"
+    }
+  ],
+
+  "trueOrFalse": [
+    {
+      "question":"Software Testing is not significant in the system development life cycle.", 
+      "choices": ["True", "False"],
+      "answer":"False"
+    },
+    {
+      "question":"Bugs prevent the correct operation of the computer program or software.", 
+      "choices": ["True", "False"],
+      "answer":"True"
+    },
+    {
+      "question":"The Character representation of Programming Languages is Times New Roman.", 
+      "choices": ["True", "False"],
+      "answer":"False"
+    },
+    {
+      "question":"Code Review is needed if the program is not working according to what is required.", 
+      "choices": ["True", "False"],
+      "answer":"True"
+    },
+    {
+      "question":"Imperative programming paradigm specifies 'what' is required.", 
+      "choices": ["True", "False"],
+      "answer":"False"
+    },
+    {
+      "question": "Bjarne Stroustrup is a Canadian computer scientist, best known as the founder and designer of C++ programming language. ",
+      "choices": ["True","False"],
+      "answer": "False"
+    },
+    {
+      "question": "Rust is a programming language commonly used for text-editing applications.",
+      "choices": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "question": "One advantage of refactoring is that it can help in finding bugs.",
+      "choices": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "question": "Application design stage is the implementation of the design phase in the SDLC.",
+      "choices": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "question": "Imperative programming paradigm specifies 'when' something is achieved.",
+      "choices": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "question": "Compiler translates a source code (written in a programming language) into the computer language (object code).",
+      "choices": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "question": "We refactor because the program is easy to read.",
+      "choices": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "question": "Code Minifier reduces the size of a program's source code affecting the functionality.",
+      "choices": ["True", "False"],
+      "answer": "False"
+    },
+    {
+      "question": "Code beautifier improves the presentation of the source code to comply with certain standards or for readability purposes.",
+      "choices": ["True", "False"],
+      "answer": "True"
+    },
+    {
+      "question": "SDLC stands for Software Design Life Cycle",
+      "choices": ["True", "False"],
+      "answer": "False"
+    }
+  ]
+}
